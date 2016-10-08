@@ -1,0 +1,13 @@
+table{
+	margin: 0 auto;
+    display: block;
+}
+body{
+}
+td{
+	background: rgb(153, 230, 255);
+	border-radius: 2px;
+	text-align: center;
+	border: 2px solid black;
+	width:50%;
+}
